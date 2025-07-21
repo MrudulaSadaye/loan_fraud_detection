@@ -127,4 +127,3 @@ python monitoring/periodic_model_monitoring.py
 
 ---
 
-**If you have custom requirements or want to change any assumptions, update the relevant code and documentation accordingly.** 
